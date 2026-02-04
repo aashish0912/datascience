@@ -8,3 +8,5 @@ scikit-learn
 openpyxl
 jupyter
 notebook
+streamlit
+scikit-learn

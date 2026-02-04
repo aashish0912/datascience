@@ -28,3 +28,7 @@ This repository contains the analysis for the data science intern assignment. Th
    ```bash
    jupyter notebook notebooks/Trader_Analysis.ipynb
    ```
+3. Run Streamlit Dashboard:
+   ```bash
+   streamlit run dashboard.py
+   ```
